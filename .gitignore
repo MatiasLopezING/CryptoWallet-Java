@@ -1,0 +1,25 @@
+# Archivos compilados
+*.class
+
+# Directorios de salida
+/bin/
+/build/
+/out/
+
+# Archivos de configuración IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Configuración del editor
+.vscode/
+*.swp
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
